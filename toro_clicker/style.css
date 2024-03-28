@@ -1,0 +1,56 @@
+body{
+    background-image: url("IMGs/main_bg.png");
+    background-color: rgb(0, 0, 0);
+    font-family: Helvetica, Arial, sans-serif;
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.div_image{
+    text-align: center;
+}
+
+.image{
+    width: 400px;
+}
+
+.image:hover{
+    cursor: pointer;
+}
+
+.div_buttons{
+    text-align: center;
+}
+
+.button_toro{
+    text-decoration: none;
+    background-color: aliceblue;
+    border: none;
+    font-size: 16px;
+    font-weight:bold;
+    color: rgb(206, 119, 119);
+    padding: 6px 12px;
+}
+
+.button_kuro{
+    text-decoration: none;
+    background-color: rgb(48, 45, 45);
+    border: none;
+    font-size: 16px;
+    font-weight:bold;
+    color: rgb(160, 156, 156);
+    padding: 6px 12px;
+}
